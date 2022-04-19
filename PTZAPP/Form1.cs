@@ -791,15 +791,17 @@ namespace PTZAPP
 
         }
 
-        private static int initalCars = (Directory.GetFiles("C:/Temp/Camera/camera/6H0BBD3PAZC5550/2022-04-18/001/jpg", "*", SearchOption.AllDirectories).Length) / 3;
-        int currentCars = initalCars;
-        int prevFiles = Directory.GetFiles("C:/Temp/Camera/camera/6H0BBD3PAZC5550/2022-04-18/001/jpg", "*", SearchOption.AllDirectories).Length;
+        //private static int initalCars = (Directory.GetFiles("C:/Temp/Camera/camera/6H0BBD3PAZC5550/2022-04-18/001/jpg", "*", SearchOption.AllDirectories).Length) / 3;
+        //int currentCars = initalCars;
+        //int prevFiles = Directory.GetFiles("C:/Temp/Camera/camera/6H0BBD3PAZC5550/2022-04-18/001/jpg", "*", SearchOption.AllDirectories).Length;
         private void timer1_Tick(object sender, System.EventArgs e)
         {
+           /*
             int currentFiles = Directory.GetFiles("C:/Temp/Camera/camera/6H0BBD3PAZC5550/2022-04-18/001/jpg", "*", SearchOption.AllDirectories).Length;
             if (currentFiles != prevFiles) { currentCars++; }
             prevFiles = currentFiles;
             label10.Text = currentCars.ToString();
+           */
         }
     }
 }

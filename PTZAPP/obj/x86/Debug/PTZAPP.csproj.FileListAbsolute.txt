@@ -1,0 +1,13 @@
+J:\PTZAPP\PTZAPP\bin\x86\Debug\PTZAPP.exe.config
+J:\PTZAPP\PTZAPP\bin\x86\Debug\PTZAPP.exe
+J:\PTZAPP\PTZAPP\bin\x86\Debug\PTZAPP.pdb
+J:\PTZAPP\PTZAPP\bin\x86\Debug\NetSDKCS.dll
+J:\PTZAPP\PTZAPP\bin\x86\Debug\NetSDKCS.pdb
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.csprojAssemblyReference.cache
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.Form1.resources
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.Properties.Resources.resources
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.csproj.GenerateResource.cache
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.csproj.CoreCompileInputs.cache
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.csproj.CopyComplete
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.exe
+J:\PTZAPP\PTZAPP\obj\x86\Debug\PTZAPP.pdb

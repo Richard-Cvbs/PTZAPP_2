@@ -1,0 +1,12 @@
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csprojAssemblyReference.cache
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+C:\Users\lgtserver\Desktop\GeneralSDK CSharp 2019\Demos\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb
+J:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+J:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+J:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csprojAssemblyReference.cache
+J:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+J:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+J:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb
